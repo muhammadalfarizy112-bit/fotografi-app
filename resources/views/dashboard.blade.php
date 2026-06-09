@@ -51,7 +51,7 @@
 
         <div class="col-md-6">
 
-            <img src="https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?q=80&w=1200"
+            <img src="{{ asset('image/poster.jpeg') }}"
                  class="img-fluid rounded-4 shadow-lg"
                  style="height:500px;
                         width:100%;
